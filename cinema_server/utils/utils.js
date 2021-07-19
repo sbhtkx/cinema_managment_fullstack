@@ -12,4 +12,4 @@ const updateItem = (url, id, obj) => axios.put(`${url}/${id}`, obj);
 
 const deleteItem = (url, id) => axios.delete(`${url}/${id}`);
 
-module.exports = { getAll, getById, addItem, updateItem, deleteItem };
+module.exports = { getAll, getById, addItem, updateItem, deleteItem }; 
