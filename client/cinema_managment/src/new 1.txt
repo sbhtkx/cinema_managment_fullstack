@@ -1,0 +1,24 @@
+hirarchy:
+-MoviesPage -
+		    - MovieList - Movie
+						- Searchbar
+			- AddMovie
+			- EditMovie
+		   
+
+
+states:
+movies (id, name, premiered, img)
+members (id, name)
+subscriptions
+filter
+newMovieDetailes
+
+movielist - movie ids, filter
+movie - movies(one movie)
+searchbar - filter
+addmovie - newMovieDetailes
+EditMovie - newMovieDetailes
+
+Dates:
+movies - premiered
