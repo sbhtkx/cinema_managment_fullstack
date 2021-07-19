@@ -1,0 +1,15 @@
+{
+    "60f4789157c55f3288e7cf28": {
+        "id": "60f4789157c55f3288e7cf28",
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "update subscriptions",
+            "view movies",
+            "create movies",
+            "delete movies",
+            "update movies"
+        ]
+    }
+}

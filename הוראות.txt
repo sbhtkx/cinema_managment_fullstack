@@ -1,0 +1,18 @@
+פעם ראשונה:
+cd pullFirstData
+node pullFirstData.js
+
+אחר כך:
+להפעיל שרת 1:
+cd subscriptions_server
+npm run start
+
+להפעיל שרת 2:
+cd cinema_server
+npm run start
+
+להפעיל צד שרת:
+cd client/cinema_managment
+npm run start
+
+דניאל סבן, תדה רבה!

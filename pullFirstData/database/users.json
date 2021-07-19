@@ -1,0 +1,37 @@
+{
+    "undefined": {
+        "firstName": "admin",
+        "lastName": "admin",
+        "username": "admin",
+        "email": "admin@cinema.co.il",
+        "createdDate": "14/7/2021",
+        "sessionTimeOut": 10
+    },
+    "60eee25b856cbf0bc8abbd63": {
+        "firstName": "admin",
+        "lastName": "admin",
+        "username": "admin",
+        "email": "admin@cinema.co.il",
+        "createdDate": "14/7/2021",
+        "id": "60eee25b856cbf0bc8abbd63",
+        "sessionTimeOut": 10
+    },
+    "60eee2ac04dd9e12b449b012": {
+        "firstName": "admin",
+        "lastName": "admin",
+        "username": "admin",
+        "email": "admin@cinema.co.il",
+        "createdDate": "14/7/2021",
+        "id": "60eee2ac04dd9e12b449b012",
+        "sessionTimeOut": 10
+    },
+    "60eee37161ce6506a83562dd": {
+        "firstName": "admin",
+        "lastName": "admin",
+        "username": "admin",
+        "email": "admin@cinema.co.il",
+        "createdDate": "14/7/2021",
+        "id": "60eee37161ce6506a83562dd",
+        "sessionTimeOut": 10
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "undefined": {
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "update subscriptions",
+            "view movies",
+            "create movies",
+            "delete movies",
+            "update movies"
+        ]
+    },
+    "60eee25b856cbf0bc8abbd63": {
+        "id": "60eee25b856cbf0bc8abbd63",
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "update subscriptions",
+            "view movies",
+            "create movies",
+            "delete movies",
+            "update movies"
+        ]
+    },
+    "60eee2ac04dd9e12b449b012": {
+        "id": "60eee2ac04dd9e12b449b012",
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "update subscriptions",
+            "view movies",
+            "create movies",
+            "delete movies",
+            "update movies"
+        ]
+    },
+    "60eee37161ce6506a83562dd": {
+        "id": "60eee37161ce6506a83562dd",
+        "permissions": [
+            "view subscriptions",
+            "create subscriptions",
+            "delete subscriptions",
+            "update subscriptions",
+            "view movies",
+            "create movies",
+            "delete movies",
+            "update movies"
+        ]
+    }
+}
